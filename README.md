@@ -12,6 +12,10 @@ This repository contains the English Mainstream Edition of Turbo-Suslik 2.0, org
 
 Before using the practices described in the book, read the [Disclaimer](book/01-introduction/03-disclaimer.md).
 
+## Technical overview
+
+[Read the cybernetic model of how Turbo-Suslik works](cybernetic-model.md)
+
 ## Downloads
 
 PDF and EPUB files are available on the [latest release page](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-English/releases/latest).
