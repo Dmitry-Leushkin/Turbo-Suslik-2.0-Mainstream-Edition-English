@@ -14,7 +14,7 @@ Before using the practices described in the book, read the [Disclaimer](book/01-
 
 ## Downloads
 
-PDF and EPUB files will be published on the [Releases page](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-English/releases) with the first release.
+PDF and EPUB files are available on the [latest release page](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-English/releases/latest).
 
 ## Official websites
 
