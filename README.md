@@ -59,4 +59,4 @@ Russian edition:
 
 ## Copyright and use
 
-See the [Copyright and Temporary Rights Notice](./book/01-introduction/02-copyright-and-temporary-rights-notice.md) and the [Disclaimer](./book/01-introduction/03-disclaimer.md).
+See the [Copyright and License](LICENSE.md) and the [Disclaimer](./book/01-introduction/03-disclaimer.md).
