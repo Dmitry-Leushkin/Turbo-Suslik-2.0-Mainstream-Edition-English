@@ -60,6 +60,7 @@ Russian edition:
 
 * [Official Turbo-Suslik website](https://turbo-suslik.ru/en/)
 * [Mind ReFactory](https://mindrefactory.dev/)
+* [HOF Research](https://hof-research.org/)
 
 ## Copyright and use
 
