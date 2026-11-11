@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this framework or protocol documentation in your research, please cite it using these metadata."
+type: software
+title: "Turbo-Suslik 2.0: Mainstream English Edition"
+version: "2.0"
+date-released: "2026-09-01"
+url: "https://mindrefactory.dev"
+repository-code: "https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-English"
+doi: "10.5281/zenodo.24138357"
+authors:
+  - family-names: "Leushkin"
+    given-names: "Dmitry"
+    orcid: "https://orcid.org/0009-0002-8682-9647"
+keywords:
+  - "cognitive-architecture"
+  - "protocol-based-processing"
+  - "self-regulation"
+  - "human-optimization-framework"
+  - "semantic-regulation"
+abstract: >-
+  Turbo-Suslik is a self-directed system for working with persistent emotional
+  reactions, beliefs, fears, internal conflicts, and behavioral patterns. The
+  system uses structured verbal instructions called protocols. Instead of trying
+  to convince yourself to think positively, a protocol is used to work with the
+  memories, emotions, beliefs, bodily reactions, and associations that keep an
+  unwanted pattern active.
+preferred-citation:
+  type: report
+  title: "Language-Based Cognitive Interventions: A Scoping Review of Linguistic Cues, Task-Framing, and Self-Directed Cognitive Change"
+  authors:
+    - family-names: "Leushkin"
+      given-names: "Dmitry"
+  doi: "10.2139/ssrn.7307398"
+  year: 2026
+  institution:
+    name: "Human Optimization Framework (HOF Research)"
+    website: "https://hof-research.org"

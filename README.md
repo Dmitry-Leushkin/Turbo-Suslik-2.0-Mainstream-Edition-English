@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.24138356"><img src="https://zenodo.org/badge/1375802302.svg" alt="DOI"></a>
+</p>
+
 # Turbo-Suslik 2.0: Mainstream Edition
 
 **By Dmitry Leushkin**
